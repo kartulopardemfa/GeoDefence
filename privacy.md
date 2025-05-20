@@ -1,36 +1,42 @@
 # Privacy Policy for GeoDefense: Crown Guard
 
-**Last Updated:** October 26, 2023
 
 ## Introduction
-This Privacy Policy describes how Umay Edin & Ömer Kaya ("we," "us," or "our") handles information in connection with your use of the GeoDefense: Crown Guard application (the "App").
 
-Our commitment is to your privacy. This App is designed as a simple game and **does not collect, store, or share any personal data from its users.**
+This Privacy Policy describes how **Umay Edin & Ömer Kaya** ("we", "us", or "our") handle information related to your use of the **GeoDefense: Crown Guard** application (the "App").
+
+Your privacy is important to us. This App is a standalone game that **does not collect, store, or share any personal information**.
 
 ## Information We Do Not Collect
-The App does not collect any of the following:
 
-*   Personal Identifiable Information (PII) such as your name, address, email address, or phone number.
-*   Device identifiers or specific device information (beyond what is anonymously provided by the App Store for crash reporting, if applicable, which is not accessed or stored by us directly).
-*   Location data.
-*   Usage data or analytics about how you play the game (e.g., scores are stored locally on your device only and are not transmitted to us).
-*   Data from third-party services or accounts.
+The App does **not** collect or process any of the following:
 
-## Data Storage
-Any game-related data, such as high scores or game progress, is stored locally on your Apple Watch and/or companion iOS device. This data is not transmitted to us or any third parties.
+- Personal Identifiable Information (PII), such as name, address, email, or phone number  
+- Device identifiers or specific hardware data (beyond what may be anonymously provided by the App Store for crash reporting)  
+- Location data  
+- Gameplay usage data or analytics (e.g., play time, interaction data, etc.)  
+- Data from third-party accounts or services
+
+## Local Data Storage
+
+Any game data such as high scores or progress is stored **locally** on your Apple Watch and/or paired iOS device. This data is **not transmitted** to us or any external party.
 
 ## Third-Party Services
-The App does not integrate with any third-party services that would collect your personal data through the App.
+
+The App does **not** use any third-party SDKs or services that collect personal data.
 
 ## Children's Privacy
-Since we do not collect any personal data, the App is safe for all ages. We do not knowingly collect personal information from children under the age of 13 (or the relevant age in your jurisdiction). If you believe a child has provided us with information, please contact us, and we will ensure it is addressed appropriately, though the App is designed not to collect such information in the first place.
 
-## Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+As no data is collected, the App is safe for users of all ages. We do not knowingly collect information from children under 13 (or under the age defined by your local jurisdiction). If you believe that a child has provided personal information through the App, please contact us. However, the App is built to prevent such collection.
 
-The "Last Updated" date at the top of this Privacy Policy will indicate when the latest modifications were made.
+## Policy Changes
+
+We may update this Privacy Policy from time to time. All changes will be posted here, with the updated "Last Updated" date reflecting the latest revision.
+
+You are encouraged to check this policy periodically. Continued use of the App after changes are posted constitutes your acceptance of those changes.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us:
 
-By email: umayedini@icloud.com
+If you have any questions about this Privacy Policy, please contact:
+
+**Email:** [umayedini@icloud.com](mailto:umayedini@icloud.com)
