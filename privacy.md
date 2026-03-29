@@ -39,4 +39,4 @@ You are encouraged to check this policy periodically. Continued use of the App a
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Email:** [umayedini@icloud.com](mailto:umayedini@icloud.com)
+**Email:** [umayedini@icloud.com](mailto:umayedin@icloud.com)
